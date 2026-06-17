@@ -18,7 +18,7 @@ The audit reviewed:
 Key Findings identified during the audit include:
 - Multi-Factor Authentication (MFA) not enabled
 - Weak password requirements
-- Lack of bacup testing procedures
+- Lack of bacKup testing procedures
 - Potential phishing risks
 
 ## Risk Assessment 
