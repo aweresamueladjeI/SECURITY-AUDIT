@@ -1,7 +1,7 @@
 # Security Audit Project 
 
 ## Overview 
-This demonstrates a basic security audit performed on an organization. The purpose of the audit is to identify security risks, evaluate existing controls, and provide recommendations to improve the organization's security. 
+This project demonstrates a basic security audit performed on an organization. The purpose of the audit is to identify security risks, evaluate existing controls, and provide recommendations to improve the organization's security. 
 
 
 ## Audit Scope 
